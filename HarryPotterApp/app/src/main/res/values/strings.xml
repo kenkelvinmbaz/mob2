@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Harry Potter App</string>
+    <string name="app_title">Harry Potter API</string>
+    <string name="subtitle">Dashboard</string>
+
+    <!-- Dashboard Buttons -->
+    <string name="btn_character_by_id">Buscar Personagem por ID</string>
+    <string name="btn_list_staff">Listar Professores</string>
+    <string name="btn_students_by_house">Listar Estudantes por Casa</string>
+    <string name="btn_exit">Sair</string>
+
+    <!-- Character by ID -->
+    <string name="title_character_by_id">Buscar Personagem</string>
+    <string name="label_enter_id">Digite o ID do personagem:</string>
+    <string name="hint_character_id">Ex: 4c7e6819-a91a-45b2-a454-f931e4a7cce3</string>
+    <string name="btn_search">Buscar</string>
+    <string name="label_result">Resultado:</string>
+    <string name="no_result">Nenhum resultado ainda</string>
+
+    <!-- Staff -->
+    <string name="title_staff">Professores de Hogwarts</string>
+    <string name="loading">Carregando...</string>
+
+    <!-- Students by House -->
+    <string name="title_students_by_house">Estudantes por Casa</string>
+    <string name="label_select_house">Selecione uma casa:</string>
+    <string name="house_gryffindor">Gryffindor</string>
+    <string name="house_slytherin">Slytherin</string>
+    <string name="house_hufflepuff">Hufflepuff</string>
+    <string name="house_ravenclaw">Ravenclaw</string>
+    <string name="label_students_list">Lista de Estudantes:</string>
+
+    <!-- Mensagens de Erro -->
+    <string name="error_network">Erro de rede. Verifique sua conexão.</string>
+    <string name="error_no_character">Personagem não encontrado.</string>
+    <string name="error_empty_id">Por favor, digite um ID.</string>
+    <string name="error_select_house">Por favor, selecione uma casa.</string>
+    <string name="error_general">Erro ao buscar dados. Tente novamente.</string>
+</resources>
